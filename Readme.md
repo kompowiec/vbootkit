@@ -17,10 +17,6 @@ visit www.nvlabs.in for more information or updates.
 
 If you develop anything using this code, please remember to give necessary credit to the authors.
 
-mails:-
-
-
-This zip contains Vbootkit 2.0 ( both binary and source code).
 The source code is available under GPL license.
 
 Here are the basic usage instrcutions and the layout.
