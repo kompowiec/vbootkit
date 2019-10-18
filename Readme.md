@@ -7,9 +7,11 @@ April 2007
 
 Legal Warning :- We are not responsible for anything.Use at your own risk
 
-developers:
-Vipin Kumar   :  vipin at nvlabs.in
-Nitin Kumar   :  nitin at nvlabs.in
+```
+Developers:
+ Vipin Kumar   :  vipin at nvlabs.in 
+ Nitin Kumar   :  nitin at nvlabs.in
+```
 
 visit www.nvlabs.in for more information or updates.
 
