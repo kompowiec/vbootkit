@@ -1,4 +1,4 @@
-###  Vbootkit 2.0 ( source and binary download) 
+###  Vbootkit 2.0
 
 -----
 
