@@ -1,0 +1,7 @@
+default=0
+timeout=30
+foreground bbbbbb
+background 000000
+
+title Vbootkit 2.0
+chainloader  /vbootkit  +4
