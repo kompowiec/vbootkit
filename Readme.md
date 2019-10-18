@@ -1,7 +1,9 @@
-### April 2007 | Vbootkit 2.0 ( source and binary download) ### 
+###  Vbootkit 2.0 ( source and binary download) 
 
 -----
-April 10. 2007
+
+April 2007
+
 
 Legal Warning :- We are not responsible for anything.Use at your own risk
 
